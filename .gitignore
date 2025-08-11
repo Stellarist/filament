@@ -18,3 +18,15 @@ test*.json
 results
 /compile_commands.json
 /.cache
+assets/
+build/
+bin/
+dependencies/
+lib/
+vcpkg_installed/
+cmake-build-debug/
+.cache/
+.vs/
+.vscode/
+.idea/
+
